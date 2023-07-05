@@ -1,0 +1,15 @@
+If GTunlock crashes or does not works as it should, there is file in main folder named: system_telemetry.txt
+Everytime you open GTunlock, a small program in it will detect and write telemetry data like:
+OS info
+GPU info
+PC info
+RAM info
+CPU info
+
+These data will/can be used to solve problems with the program.
+
+how to do it:
+1. find system_telemetry.txt
+2 copy the file into github issues
+3. tell everything what happened when you ran the program.
+4. send and wait until i will respond
